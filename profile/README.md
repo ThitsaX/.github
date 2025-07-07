@@ -1,4 +1,26 @@
-## Hi there 👋
+## 🌟 About ThitsaWorks  
+**ThitsaWorks** builds fintech solutions for Microfinance Institutions (MFIs) to streamline data collection, management, and risk analysis. We’re committed to **financial inclusion**, driven by integrity and social impact.  
+
+> *"Success is doing good—ethically and sustainably."*  
+
+### 🧠 Our Culture  
+We foster a transparent, growth-oriented environment:  
+- **Over-communicate** → Clarity is key.  
+- **Speak up** → Ideas thrive in open dialogue.  
+- **Embrace mistakes** → Learn boldly, improve relentlessly.  
+
+### ❤️ Core Values  
+- **Integrity**: Honesty in every action.  
+- **Respect for diversity**: Celebrate unique perspectives.  
+- **Professionalism**: Excellence with accountability.  
+
+### 🚀 The 5R’s of Service  
+How we deliver impact:  
+- **Respectful**: Listen, empathize, collaborate.  
+- **Responsive**: Act with urgency and care.  
+- **Realistic**: Set clear, achievable goals.  
+- **Responsible**: Own outcomes, uphold trust.  
+- **Remembered positively**: Leave a legacy of goodwill.  
 
 <!--
 
