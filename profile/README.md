@@ -1,4 +1,4 @@
-# 🌍 ThitsaWorks
+# ThitsaWorks
 
 ![Fintech](https://img.shields.io/badge/Fintech-Solutions-blue)
 ![Digital Payments](https://img.shields.io/badge/Digital-Payments-green)
